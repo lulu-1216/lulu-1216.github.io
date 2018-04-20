@@ -1,0 +1,14 @@
+body{
+
+}
+.footer{
+  background-color: black;
+  color: white;
+}
+.footer li{
+  display: inline-block;
+  text-align: center;
+}
+.footer ul{
+  text-align: center;
+}
