@@ -11,3 +11,14 @@ function triggerAlert() {
 document.getElementById("timer-start").addEventListener("click", function () {
   delayAlert();
 });
+
+document.getElementById("cancel-timer").addEventListener("click", function() {
+ cancelAlert();
+});
+
+//    create html with 2 buttons like this -- <div class="container">
+          <h1> Day 10 </h1>
+          <button id ="timer-start"> Start Timer </button>
+          <button id="cancel-timer">X</button>
+    </div> --    //
+  
